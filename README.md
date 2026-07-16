@@ -45,3 +45,6 @@ High performers (>=80): 6
 ## Submission
 - File: `main.cpp`
 - Upload to Canvas + GitHub repo
+
+- Video:
+- https://youtu.be/LaJXkhLs7H4?si=l17jT5V2ymJly1Ko
